@@ -23,15 +23,6 @@ Ingresar contenido: Hola mundo
 ```
 
 ## Ejercicio 2. Valor 10 puntos.
-Escriba una función llamada **verArchivo** que reciba como parámetro de entrada el **nombre de un archivo**, debe retornar todo el contenido del archivo
-
-```python
->>> verArchivo("miArchivo.txt")
-'Hola mundo'
-'Hola mundo'
-```
-
-## Ejercicio 3. Valor 10 puntos.
 Escriba una función llamada **contarLineas** que reciba como parámetro de entrada el **nombre de un archivo**, debe retornar el total de líneas que contiene el archivo
 
 ```python
@@ -39,10 +30,10 @@ Escriba una función llamada **contarLineas** que reciba como parámetro de entr
 2
 ```
 
-## Ejercicio 4. Valor 10 puntos.
+## Ejercicio 3. Valor 10 puntos.
 Escriba una función llamada **contarCaracteres** que reciba como parámetro de entrada el **nombre de un archivo**, debe retornar el total de caracteres que tiene el archivo, debe también contar los caracteres invisibles como el de cámbio de línea
 
 ```python
 >>> contarCaracteres ("miArchivo.txt")
-24
+20
 ```
